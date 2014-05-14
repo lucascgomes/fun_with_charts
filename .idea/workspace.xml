@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8abc7fb-9b4e-45b7-a978-29257f8171db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/populate.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chartapp/models.py" afterPath="$PROJECT_DIR$/chartapp/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fun_with_charts/settings.py" afterPath="$PROJECT_DIR$/fun_with_charts/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fun_with_charts/urls.py" afterPath="$PROJECT_DIR$/fun_with_charts/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chartapp/views.py" afterPath="$PROJECT_DIR$/chartapp/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="d8abc7fb-9b4e-45b7-a978-29257f8171db" name="Default" comment="" />
     <ignored path="fun_with_charts.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
